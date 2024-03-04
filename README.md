@@ -15,10 +15,8 @@ All the tests passed!
 SCREEN SHOT BELOW OF THE TEST RESULT:
 ![consoleOutPutTestNG](https://github.com/Tshibanda1/EndToEnd-testing-TakeAlot-buying-feature/assets/118852771/29118c99-9a67-4d33-98ea-0a96818317b8)
 
-FEATURE FILE:
-![FEATUREFILE](https://github.com/Tshibanda1/EndToEnd-testing-TakeAlot-buying-feature/assets/118852771/4f92d797-a7e3-4e92-aa3b-dd6f8d07da08)
 
-SHARED_UTILS:
+SHARED_UTILS (for dependancy Injection):
 ![SHAREDuTILS](https://github.com/Tshibanda1/EndToEnd-testing-TakeAlot-buying-feature/assets/118852771/0a7a7496-0256-457a-9be1-b3b35f48dc15)
 
 
